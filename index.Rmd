@@ -89,11 +89,10 @@ Research Question:
 
 .onehundredtwenty[
 
-1. Theoreteical Framework
+1. Theoretical Framework
 2. Data & Methodology
-3. Challenges
-4. Analysis & Results
-5. Conclusions & Future Research
+3. Analysis & Results
+4. Conclusions & Future Research
 
 ]
 
@@ -102,28 +101,12 @@ Research Question:
 
 class: inverse, center, middle
 
-## Theoretical Link between <br> Deliberation and Regime Legitimacy 
+## Theoretical Framework
 
 
 ---
 
 ## Theory
-
-+ Central claim of deliberative theory: 
-    + making it possible to arrive at (more) legitimate desicions
-
-
---
-+ Conceptualization of legitimacy as regime support 
-
-
---
-+ General assumption: Deliberative qualities of a political system increase support from its citizens
-
-
---
-+ *Authoritarian deliberation*: Might decrease support due to increasing democratic capabilites
-
 
 
 ---
@@ -138,29 +121,22 @@ class: inverse, center, middle
 
 #### Data & Methodology
 
-**Individual-Level Data**
+
 + Merging of the following datasets: 
-  + Afrobarometer Survey, Round 5 and Round 6 (data from 2011-2015)  
-  + Asian Barometer Survey, Wave 3 and Wave 4 (2010-2015) 
-  + AmericasBarometer (2010-2014) 
-  + European Social Survey, Round 6 (2012) 
-  + Latinobarómetro (2015) 
-  + World Values Survey (2010-2014)
+  + Arabbarometer Survey, Round 3 and Round 4 (data from 2011-2015)  
 
 + In total 316,938 individual cases in 119 Countries
   + weighted to same sample size (=1000)
 
+---
 
---
+## Dependent Variable
 
-**Country-Level Data**
-+ "Varieties of Democracy"-Dataset: Deliberative Component Index
-+ Control variables come from V-Dem and the QoG-Dataset
-+ Lagging of Independent Variables (Averaging from 2000 - 2010)
+<img src="images/descriptives.png">
 
 ---
 
-#### Data & Methodology
+#### Independent Variables
 
 .ninetyfive[
 
@@ -187,80 +163,9 @@ class: inverse, center, middle
 ---
 
 
-## Operationalization of Regime Support
-
-Three types of traditional political branches
-+ executive (political leadership)
-+ judicial and legal system (courts and police)
-+ legislation (parliament) 
-
-
-
----
-
-## Deliberative Component Index (DCI)?
-
-+ short description?
-+ Table with five components?
-
-
----
-
 ## World Maps
 
----
-
-class: inverse, center, middle
-
-
-## Challenges
-
----
-
-## Challenges
-
-*Two major challenges emerged:*
-
-+ Colinearity between Deliberation indicators and Democracy Measures
-
---
-
-+ Possibly biased self-reported regime support 
-
---
-
-<br>
-
-#### Multicolinearity issue
-
-
-
----
-
-#### Correlation between DCI and Polity/FH
-
-
-
-
-
----
-
-
-#### Possibly biased self-reported Regime Support 
-
-
-
----
-
-#### Correlation between Regime Support and Discussion Suppression 
-
-
-
----
-
-#### Weighting of Regime Support
-
-
+<img src="images/map_islamism_fin.png">
 
 ---
 
@@ -281,13 +186,15 @@ class: inverse, center, middle
 
 ---
 
-## Results
+## Analysis & Results
 
+
+<img src="images/coefplot.png">
 
 ---
+## Analysis & Results
 
-### Model Comparisons -Just Polity/FH Models vs. Complete Models
-
+<img src="images/interactions.png">
 
 ---
 
