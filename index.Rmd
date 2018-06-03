@@ -1,8 +1,8 @@
 ---
 title: "Godly Governance"
 subtitle: "Examining Support for Religious Governance <br> in Arab Muslim Majority Countries"
-author: 'Fabio Votta <br><br> <a href="http://github.com/favstats"><i class="fa fa-github fa-fw"></i>&nbsp; favstats</a><br> <a href="https://twitter.com/FabioFavusMaxim"> <i class="fa fa-twitter fa-fw"></i>&nbsp; @FabioFavusMaxim</a><br> <a href="mailto:fabio.votta@gmail.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; fabio.votta@gmail.com</a><br> <a href="http://www.favstats.eu/"><i class="far fa-address-card"></i>&nbsp; http://www.favstats.eu/</a>'
-date: "2018-28-05 <br><br> Slides available at <a href='godly-governance.netlify.com'>https://godly-governance.netlify.com/ </a>"
+author: 'Fabio Votta <br><br> <a href="http://github.com/favstats"><i class="fa fa-github fa-fw"></i>&nbsp; favstats</a> <br> <a href="http://www.favstats.eu/"><i class="fa fa-address-card"></i>&nbsp; favstats.eu</a> <br> <a href="https://twitter.com/FabioFavusMaxim"> <i class="fa fa-twitter fa-fw"></i>&nbsp; @FabioFavusMaxim</a><br> <a href="mailto:fabio.votta@gmail.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; fabio.votta@gmail.com</a>'
+date: "2018-28-05 <br><br> Slides available at <a href='https://godly-governance.netlify.com'>godly-governance.netlify.com</a>"
 output: 
   xaringan::moon_reader:
     lib_dir: libs
@@ -21,7 +21,7 @@ output:
     
 
 ```{r xaringan-themer, include = FALSE}
-library(xaringanthemer)
+#library(xaringanthemer)
 # mono_accent(base_color = "#252525", link_color	= "rgb(198, 219, 239)")
 ```
 

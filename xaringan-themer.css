@@ -176,7 +176,7 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 
 
 .title-slide h1:nth-of-type(1) {
-    font-size: 400%;
+    font-size: 350%;
 }
 
 .title-slide h2:nth-of-type(1) {
@@ -184,7 +184,7 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 }
 
 .title-slide h3:nth-of-type(1) {
-    font-size: 150%;
+    font-size: 120%;
 }
 
 .title-slide {
