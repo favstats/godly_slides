@@ -226,13 +226,11 @@ class: inverse, center, middle
 
 ## Thanks for Listening!
 
-Full Paper: <a href='https://www.academia.edu/36656020/Deliberation_Across_the_World_A_Cross-National_Examination_of_the_Link_Between_Deliberation_and_Regime_Legitimacy'>Deliberation Across the World</a>
+Full Paper: <a href='http://www.academia.edu/36488238/Godly_Governance_A_Cross-National_Examination_of_Religious_Politics_in_Arab_Muslim-Majority_Countries'>Godly Governance</a>
 
 Slides: <a href='deliberation-and-legitimacy.netlify.com'>https://deliberation-and-legitimacy.netlify.com </a>
 
-Online Appendix can be found <a href='https://favstats.github.io/delib_mod_database'>here</a>
-
-Code and Data on <a href='https://github.com/favstats/paper_delib'>GitHub</a>
+Code and Data on <a href='https://github.com/favstats/GodlyGovernance'>GitHub</a>
 
 
 ---
