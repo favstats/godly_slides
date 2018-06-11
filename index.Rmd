@@ -211,6 +211,7 @@ class: inverse, center, middle
 
 ### Dependent Variable - *Support for Islamism* 
 
+
 *To what extent [do] you think these systems would be appropriate for your country?*
 
 + Religious leaders (imams, preachers, priests) should have influence over government decisions
@@ -226,7 +227,7 @@ class: inverse, center, middle
 
 <center>
 
-<img src="images/pca.png" height="200">
+<img src="images/pca.png" height="180">
 
 </center>
 
@@ -234,7 +235,7 @@ class: inverse, center, middle
 
 ### Dependent Variable
 
-<img src="images/descriptives.png">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/descriptives.png" target = "blank"> <img src="images/descriptives.png"> </a>
 
 ---
 
@@ -242,7 +243,8 @@ class: inverse, center, middle
 
 <br>
 
-<img src="images/map_islamism_fin.png">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/map_islamism_fin.png" target = "blank"> <img src="images/map_islamism_fin.png"> </a>
+
 
 ---
 
@@ -324,7 +326,8 @@ class: inverse, center, middle
 
 <center>
 
-<img src="images/regtable.png" height="610">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/regtable.png" target = "blank"> <img src="images/regtable.png" height="610"> </a>
+
 
 </center>
 
@@ -332,7 +335,8 @@ class: inverse, center, middle
 
 ## Results - Main Effects
 
-<img src="images/coefplot.png">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/coefplot.png" target = "blank"> <img src="images/coefplot.png"> </a>
+
 
 ---
 
@@ -340,7 +344,8 @@ class: inverse, center, middle
 
 <br>
 
-<img src="images/interactions.png">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/interactions.png" target = "blank"> <img src="images/interactions.png"> </a>
+
 
 ---
 
@@ -352,7 +357,8 @@ class: inverse, center, middle
 
 <br>
 
-<img src="images/summary.png">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/summary.png" target = "blank"> <img src="images/summary.png"> </a>
+
 
 ---
 
@@ -413,11 +419,12 @@ class: inverse, center, middle
 
 class: center, middle
 
-<img src="images/diagnostics.png" height="600">
+
+<a href="https://github.com/favstats/godly_slides/raw/master/images/diagnostics.png" target = "blank"> <img src="images/diagnostics.png" height="600"> </a>
 
 ---
 
 
 class: center, middle
 
-<img src="images/heatmap.png" height="600">
+<a href="https://github.com/favstats/godly_slides/raw/master/images/heatmap.png" target = "blank"> <img src="images/heatmap.png" height="600"> </a>
