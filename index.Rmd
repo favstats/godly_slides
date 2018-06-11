@@ -108,6 +108,49 @@ class: inverse, center, middle
 
 ## Theory
 
+**Secularization Theory**
+
+> *H1a:* Increasing individual material resources marginalizes support for religious governance.
+
+> *H1b:* Increasing intellectual resources marginalize support for religious governance.
+
+--
+
+**Parochialism**
+
+> *H2:* Parochial viewpoints increase support for religious governance.
+
+--
+
+**Patriarchal Values**
+
+> *H3:* Patriarchal Values increase the support for religious governance.
+
+---
+
+
+## Theory
+
+**The Role of Religiosity**
+
+> *H4a:* Religiosity increases the support for religious governance.
+
+
+> *H4b:* Liberal interpretations of Islam decrease the support for religious governance.
+
+--
+
+*Interactions*
+
+> *H4c:* If an individual endorses patriarchal values, religiosity has a stronger eﬀect on
+the support for religious governance than for individuals who endorse more gender egalitarian
+views.
+
+--
+
+> *H4d:* If an individual endorses liberal interpretations of Islam, religiosity has a
+diminished or even reversed eﬀect on the support for religious governance.
+
 
 ---
 
@@ -136,36 +179,43 @@ class: inverse, center, middle
 
 ---
 
-#### Independent Variables
+## Dependent Variable
 
-.ninetyfive[
+<br>
 
-+ Control Variables
-    + Micro Level
-        + Age
-        + Sex (Male/Female)
-        + Financial Security
-        + Education
-        + Employment (0/1)
-    + Macro Level
-        + Polity/FH
-        + Democracy (0/1)
-        + Autocracy (0/1)
-        + logged GDP per capita
-        + logged Population
-        + Life Expectancy
-        + Urban Pop. Ratio
-    + Survey dummies
-        + WVS, Afrobarometer, Latinobarometro, Americasbarometer, Asianbarometer, ESS
-        
-]
+<center>
+
+<img src="images/pca.png">
+
+</center>
 
 ---
 
-
-## World Maps
+## Average Support by Country
 
 <img src="images/map_islamism_fin.png">
+
+---
+
+#### Independent Variables
+
+
++ Secularization & Parochialism
+    + Employment (0/1)
+    + Financial Security
+    + Education 
+    + Parochialism
++ Religiosity
+    + Personal Piety
+    + Patriarchal Values
+    + Liberal Islam
++ Control Variables
+    + Sex (Male/Female)
+    + Age
+    + Year 2012 (0/1)
+    + Year 2013 (0/1)
+    + Year 2014 (0/1)
+
 
 ---
 
