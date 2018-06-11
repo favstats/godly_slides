@@ -108,7 +108,42 @@ class: inverse, center, middle
 
 ## Theory
 
-**Secularization Theory**
++ A commonly proposed explanation for the support for Political Islam is that devout Muslims simply
+support religious governance out of their religious convictions
+
+--
+
++ This proposed relationship falls in danger to become tautological and essentialist in nature, leading to explanations that Muslims support Political Islam *because they are Muslims*
+
+--
+
+Tessler describes the problematic nature of such arguments as this 
+
+> "mistakenly assume[s] that there are clear and uncontested definitions of what constitute [...] 'Muslim' orientations" and "[...] ignores the significant differences that exist between Arab and Muslim countries, as well as the equally important individual-level variation that exists within countries [...] associated with age, education, class, gender, ethnicity, and residence." 
+
+<center>
+
+<i>Tessler, 2015, pp. 54-55</i>
+
+</center>
+
+---
+
+<br>
+<br>
+<br>
+<br>
+
+**Definition:**
+
+> *Islamism is a political ideology comprising various political movements and policies based on a political interpretation of the religion of Islam with the aim of giving Islam an institutionalized and authoritative status in social and political life, which may include the implementation of shari'a governance and/or the establishment of an Islamic state (some form of government consisting of explicitly religious individuals or parties) based on a collectivist Islamic identity.*
+
+
+---
+
+## Hypotheses
+
+**Secularization Theory** *(Norris & Inglehart, 2011)*
 
 > *H1a:* Increasing individual material resources marginalizes support for religious governance.
 
@@ -129,7 +164,7 @@ class: inverse, center, middle
 ---
 
 
-## Theory
+## Hypotheses
 
 **The Role of Religiosity**
 
@@ -142,14 +177,14 @@ class: inverse, center, middle
 
 *Interactions*
 
-> *H4c:* If an individual endorses patriarchal values, religiosity has a stronger eﬀect on
+> *H4c:* If an individual endorses patriarchal values, religiosity has a stronger effect on
 the support for religious governance than for individuals who endorse more gender egalitarian
 views.
 
 --
 
 > *H4d:* If an individual endorses liberal interpretations of Islam, religiosity has a
-diminished or even reversed eﬀect on the support for religious governance.
+diminished or even reversed effect on the support for religious governance.
 
 
 ---
@@ -162,36 +197,50 @@ class: inverse, center, middle
 
 ---
 
-#### Data & Methodology
+## Data & Methodology
 
 
 + Merging of the following datasets: 
-  + Arabbarometer Survey, Round 3 and Round 4 (data from 2011-2015)  
-
-+ In total 316,938 individual cases in 119 Countries
-  + weighted to same sample size (=1000)
-
----
-
-## Dependent Variable
-
-<img src="images/descriptives.png">
+  + Arabbarometer Survey Round 3 (data from 2014-2015)  
+  + Arabbarometer Survey Round 4 (data from 2015-2016)  
+  
++ In total 13.495 individual cases in 12 Arab countries
+  + weighted with provided weight
 
 ---
 
-## Dependent Variable
+### Dependent Variable - *Support for Islamism* 
 
-<br>
+*To what extent [do] you think these systems would be appropriate for your country?*
+
++ Religious leaders (imams, preachers, priests) should have influence over government decisions
+
++ Your country is better off if religious people hold public positions in the state 
+
++ A system governed by Islamic law without elections or political parties
+
++ A parliamentary system (based on Islamic law) in which only Islamist parties compete in parliamentary elections 
+
+--
+
 
 <center>
 
-<img src="images/pca.png">
+<img src="images/pca.png" height="200">
 
 </center>
 
 ---
 
-## Average Support by Country
+### Dependent Variable
+
+<img src="images/descriptives.png">
+
+---
+
+### Average Support by Country
+
+<br>
 
 <img src="images/map_islamism_fin.png">
 
@@ -199,22 +248,52 @@ class: inverse, center, middle
 
 #### Independent Variables
 
+*Secularization Theory*
 
-+ Secularization & Parochialism
-    + Employment (0/1)
-    + Financial Security
-    + Education 
-    + Parochialism
-+ Religiosity
-    + Personal Piety
-    + Patriarchal Values
-    + Liberal Islam
-+ Control Variables
-    + Sex (Male/Female)
-    + Age
-    + Year 2012 (0/1)
-    + Year 2013 (0/1)
-    + Year 2014 (0/1)
++ Employment (0/1)
++ Financial Security
++ Education 
+    
+--
+    
+*Parochialism*
+
++ Do you think that the increase in global connectivity is a good or a bad thing for the society?
+      
+--
+      
+*Religiosity*
+
++ Personal Piety
+ + Do you pray daily?
+ + Do you listen to or read the Quran? 
++ Patriarchal Values
+ + A married woman can work outside the home. 
+ + In general, men are better at political leadership than women. 
+ + University education for males is more important than university education for females.
+ 
+---
+
+#### Independent Variables
+
+*Liberal Islam*
+
+> The opinions of Islamic jurists and religious scholars differ and I want to ask to what extent you
+agree or disagree with some of these issues?
+
++ Democracy is a system that contradicts the teachings of Islam.
++ Gender-mixed education should be allowed in universities. 
++ Women should wear modest clothes without needing to wear hijab. 
+
+--
+
+*Control Variables*
+
++ Sex (Male/Female)
++ Age
++ Year 2012 (0/1)
++ Year 2013 (0/1)
++ Year 2014 (0/1)
 
 
 ---
@@ -228,21 +307,38 @@ class: inverse, center, middle
 
 ## Analysis
 
-+ Multilevel Models
-    + In total 91 seperate models
-    + DVs: Regime Support (No, Low, High Bias)
-    + Main IVs: All six Deliberation indicators
++ Individuals are nested into countries, so that application of *multilevel models* is suitable
+
++ ICC: 14.66% of the variance of Islamism is bound on the country-level
+
++ Sequential approach 
+    + *Models 1-5* continually add one variable to the model
+    + *Model 6* shows the main model with all variables
+    + *Model 7-8* show estimated interaction effects
+    
++ No severe violations of residual assumptions can be found
     
 
 ---
 
-## Analysis & Results
 
+<center>
+
+<img src="images/regtable.png" height="610">
+
+</center>
+
+---
+
+## Results - Main Effects
 
 <img src="images/coefplot.png">
 
 ---
-## Analysis & Results
+
+## Results - Interaction Effects
+
+<br>
 
 <img src="images/interactions.png">
 
@@ -254,20 +350,34 @@ class: inverse, center, middle
 
 ---
 
+<br>
+
+<img src="images/summary.png">
+
+---
+
 ## Conclusions & Future Research
 
-* No simple answer to research question
- + deliberation seems to have a positive effect on regime support in democracies
- + less robust and ambiguous results for non-democracies and complete sample
-    
-    
-* Presumably biased regime support
- + should be taken into account 
- + possible remedies? (e.g. weighting procedures, survey design)
++ Financial Security shows no significant effect, whereas increased education and unemployment do
 
-* Validity of the DCI
-    + more sensitive approaches to measure deliberation on the country level are neccessary
-    + nevertheless interesting differences regarding the subsamples
+--
+
++ Parochialism and Patriarchal values both seem to increase the support for religious governance
+
+--
+
++ Religion matters and it matters *a great deal*
+    + However: Liberal interpretations of Islam decrease the support for religious governance
+    + The moderating effect Liberal Islam and Patriarchal Values is *strongest* for the most religious individuals
+
+--
+    
++ Further studies in the field should account for the very diverse interpretations and multidimensionality of religion and religiosity in that context. 
+
+--
+
++ Much variation has been found between countries
+    + Future research should consider case-studies of individual countries
 
 ---
 
@@ -287,7 +397,9 @@ Code and Data on <a href='https://github.com/favstats/GodlyGovernance'>GitHub</a
 
 ## References
 
+*Norris, P., & Inglehart, R. (2011). Sacred and secular: Religion and politics worldwide. Cambridge University Press.*
 
+*Tessler, M. (2015). Islam and Politics in the Middle East: Explaining the Views of Ordinary Citizens. Indiana University Press.*
 
 
 ---
@@ -296,56 +408,16 @@ class: inverse, center, middle
 
 ## Appendix
 
----
-
-
-#### Operationalization of Regime Support
-
 
 ---
 
-### Maps - Deliberation
+class: center, middle
 
----
-
-### Maps - Regime Support
-
----
-
-### Coefficent Plots - Complete Sample
-
----
-
-### Coefficent Plots - Democracy Sample
-
----
-
-### Coefficent Plots - Non-Democracy Sample
+<img src="images/diagnostics.png" height="600">
 
 ---
 
 
+class: center, middle
 
-### Model Comparisons - Just Control Models vs. Just Deliberation Models
-
-
----
-
-### Model Comparisons - Complete Sample
-
-
-
----
-
-### Model Comparisons - Democracy Sample
-
-
-
----
-
-### Model Comparisons - Non-Democracy Sample
-
-
-
-
-
+<img src="images/heatmap.png" height="600">
