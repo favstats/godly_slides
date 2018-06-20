@@ -114,18 +114,6 @@ Tessler describes the problematic nature of such arguments as this
 
 ---
 
-<br>
-<br>
-<br>
-<br>
-
-**Definition:**
-
-> *Islamism is a political ideology comprising various political movements and policies based on a political interpretation of the religion of Islam with the aim of giving Islam an institutionalized and authoritative status in social and political life, which may include the implementation of shari'a governance and/or the establishment of an Islamic state (some form of government consisting of explicitly religious individuals or parties) based on a collectivist Islamic identity.*
-
-
----
-
 ## Hypotheses
 
 **Secularization Theory** *(Norris & Inglehart, 2011)*
@@ -218,12 +206,6 @@ class: inverse, center, middle
 <img src="images/pca.png" height="180">
 
 </center>
-
----
-
-### Dependent Variable
-
-<a href="https://github.com/favstats/godly_slides/raw/master/images/descriptives.png" target = "blank"> <img src="images/descriptives.png"> </a>
 
 ---
 
@@ -347,13 +329,6 @@ class: inverse, center, middle
 
 ---
 
-<br>
-
-<a href="https://github.com/favstats/godly_slides/raw/master/images/summary.png" target = "blank"> <img src="images/summary.png"> </a>
-
-
----
-
 ## Conclusions & Future Research
 
 + Financial Security shows no significant effect, whereas increased education and unemployment do
@@ -364,7 +339,7 @@ class: inverse, center, middle
 
 --
 
-+ Religion matters and it matters *a great deal*
++ Religion does matter and it matters *a lot*
     + However: Liberal interpretations of Islam decrease the support for religious governance
     + The moderating effect Liberal Islam and Patriarchal Values is *strongest* for the most religious individuals
 
@@ -382,7 +357,7 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 
-## Thanks for Listening!
+## Thank You!
 
 Full Paper: <a href='http://www.academia.edu/36488238/Godly_Governance_A_Cross-National_Examination_of_Religious_Politics_in_Arab_Muslim-Majority_Countries'>Godly Governance</a>
 
@@ -405,6 +380,13 @@ Code and Data on <a href='https://github.com/favstats/GodlyGovernance'>GitHub</a
 class: inverse, center, middle
 
 ## Appendix
+
+
+---
+
+<br>
+
+<a href="https://github.com/favstats/godly_slides/raw/master/images/summary.png" target = "blank"> <img src="images/summary.png"> </a>
 
 
 ---
