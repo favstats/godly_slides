@@ -2,7 +2,7 @@
 title: "Godly Governance"
 subtitle: "Examining Support for Religious Governance <br> in Arab Muslim Majority Countries"
 author: 'Fabio Votta <br><br> <a href="http://github.com/favstats"><i class="fa fa-github fa-fw"></i>&nbsp; favstats</a> <br> <a href="http://www.favstats.eu/"><i class="fa fa-address-card"></i>&nbsp; favstats.eu</a> <br> <a href="https://twitter.com/FabioFavusMaxim"> <i class="fa fa-twitter fa-fw"></i>&nbsp; @FabioFavusMaxim</a><br> <a href="mailto:fabio.votta@gmail.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; fabio.votta@gmail.com</a>'
-date: "2018-28-05 <br><br> Slides available at <a href='https://godly-governance.netlify.com'>godly-governance.netlify.com</a>"
+date: "2018-29-06 <br><br> Slides available at <a href='https://godly-governance.netlify.com'>godly-governance.netlify.com</a>"
 output: 
   xaringan::moon_reader:
     lib_dir: libs
@@ -314,11 +314,22 @@ class: inverse, center, middle
 
 ---
 
-## Results - Interaction Effects
+## Results - Interaction Effects I
 
 <br>
 
 <a href="https://github.com/favstats/godly_slides/raw/master/images/interactions.png" target = "blank"> <img src="images/interactions.png"> </a>
+
+
+---
+
+
+
+## Results - Interaction Effects II
+
+<br>
+
+<a href="https://github.com/favstats/godly_slides/raw/master/images/interactions2.png" target = "blank"> <img src="images/interactions2.png"> </a>
 
 
 ---
