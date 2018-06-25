@@ -86,12 +86,12 @@ Research Question:
 
 ## Starting Point
 
-+ A commonly proposed explanation for the support for Political Islam is that devout Muslims simply
-support religious governance out of their religious convictions
++ A commonly proposed explanation for the support for religious governance is that devout Muslims simply
+support it out of their religious convictions
 
 --
 
-+ This proposed relationship falls in danger to become tautological and essentialist in nature, leading to explanations that Muslims support Political Islam *because they are Muslims*
++ This proposed relationship falls in danger to become tautological and essentialist in nature, leading to explanations that Muslims support religious governance *because they are Muslims*
 
 --
 
@@ -111,7 +111,7 @@ Tessler describes the problematic nature of such arguments as this
 
 **Secularization Theory** *(Norris & Inglehart, 2011)*
 
-> *H1a:* Increasing individual material resources marginalizes support for religious governance.
+> *H1a:* Increasing individual material resources marginalize support for religious governance.
 
 > *H1b:* Increasing intellectual resources marginalize support for religious governance.
 
@@ -125,7 +125,7 @@ Tessler describes the problematic nature of such arguments as this
 
 **Patriarchal Values**
 
-> *H3:* Patriarchal Values increase the support for religious governance.
+> *H3:* Patriarchal Values increase support for religious governance.
 
 ---
 
@@ -134,7 +134,7 @@ Tessler describes the problematic nature of such arguments as this
 
 **The Role of Religiosity**
 
-> *H4a:* Religiosity increases the support for religious governance.
+> *H4a:* Religiosity increases support for religious governance.
 
 
 > *H4b:* Liberal interpretations of Islam decrease the support for religious governance.
@@ -143,14 +143,13 @@ Tessler describes the problematic nature of such arguments as this
 
 *Interactions*
 
-> *H4c:* If an individual endorses patriarchal values, religiosity has a stronger effect on
-the support for religious governance than for individuals who endorse more gender egalitarian
-views.
+> *H4c:* If an individual endorses patriarchal values, religiosity has a *stronger effect* on
+the support for religious governance
 
 --
 
 > *H4d:* If an individual endorses liberal interpretations of Islam, religiosity has a
-diminished or even reversed effect on the support for religious governance.
+*diminished or even reversed effect* on the support for religious governance.
 
 
 ---
