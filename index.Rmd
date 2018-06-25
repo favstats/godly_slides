@@ -84,14 +84,7 @@ Research Question:
 
 ---
 
-class: inverse, center, middle
-
-## Theoretical Framework
-
-
----
-
-## Theory
+## Starting Point
 
 + A commonly proposed explanation for the support for Political Islam is that devout Muslims simply
 support religious governance out of their religious convictions
